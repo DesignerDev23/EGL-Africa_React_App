@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "egl-africa-405113",
+  "private_key_id": "8675b3b778505f424ccd6c7d592c6c701ec8ac7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrEptyeD8gSxeT\npMy6rC6C4jziEIT4IaaGs24PQ6TlmkL3ze+Qp/q7BveQzKHvqfdj/24HmLgJsVoF\nmRGp626S+Ph4IhC3A9SeV+u3j+vwCjWKfg0ifAbPvTsX2e3pz23AP0exuXIgp0Qj\nJXTFiOETbcElm55VUG/5aYURWRp6+YcfxPk77neM2KQNViRUMr4l6sGUQK09dgT1\n/b56ke9abQRf3XRLozwvP8ygWl3Z6g/kdFTS1hQ5hZ7gQhLvgzUwSxvP1SNYKlBP\nsY9SUTV2dWF7FQVesotGllAqZFSxy8fJB0RYxMEVGNE1KLEek/DJTG8OQXkgViIJ\nXo+y0Sd7AgMBAAECggEAAcYLiSZcT1bc46Lm645h5pqPjpH9bbL+sOm/eV3PBGPr\nlL7lwt3K+cJ/u1iCjF6ODdNHH3MKHqebN2bfQBZHoUbrEN0EAzG8bx+GYqQflCqt\nFW30+ax5gtW0kMCCM/K/mRXO3o5MfZzKpOajqsBPszoY7HdHG1i21qLA5AsTmqrs\n9kRnUFCu5A0fVqEJNbf7d6iaafr2KaA44tKlhMrScxGtp8VKrQ/aeT/5jfevYYUS\nyNT9UpxE7UABlh5zXW8liKaJcs4UBs6yL3AnrnHGNHluEfa8pPnFWqcG1JQnxo6W\nd2lZegI/wAK89+ieknwYt0OcBwUg/N1BU2NtC+/PMQKBgQDdQ4swt/DNbJoMYm2w\n5lsNvJmIEbjLlTfm2iOB4jiT6EB8cxXXYg70hGM+wYBT99181tgLEAgFgJKPcQEO\nDSgsdFq9ryR/5Wn+aDBbo1DEQeD7d0J5TpahNye1e1/KXoDLNrk+vazrr26hUdDC\nQQA4HWOKtDqXhXEXobJi8FGfEwKBgQDF7el8ixBPOMmW3OCSCi/thnnNKEiWoft/\nWy5NJwuJKbpqdGhTMXzOMWbm7PZ0bnEWB8/vI6weq397m2iv86OeIIJ1cgwredcp\nIj1HzaNeEgaHOaDQ+Zt07bK7wZJcnOMEvqixBEHNw46iAhqg3TWKXfDeQpRPxOKm\nhYfmKtSa+QKBgAYJXbbKjetM1zcXSF7XKgzJ5HZt5VjIjWni8a0NevWuFHRQv3vM\n1ROeuQZxSQsBbC2HvwUuPsnHpDf9oUW83ie4VPFv4dMLc0TZmtglMILqOTUjH9En\nb7yeQJsW7poa0fC5YXxwuFMFykLkdImYNGVTh++00xRnM5qtcqx4WgG5AoGBAJx7\n+otSzvQza33w50PO9hGOriG7ZZhiPJp2Fmc9JWuuKAoeOpT7nTbP7BFK65cl8hZ+\n2rCwvVYKNOIe/meN8qAEB+Ce6Gw/ChMlVNm+BRlMmwiyUSinD3ckrpiu8+5wwzNv\nIaPCP9xUbiI8E513But8VgEDForymFcbX1RkLG7RAoGAOdmOs6GetnLDLrZLk4vE\nZ66VBlHIPvWPEb+e+XODqzt6UBCRj/i24Mw1jTX0rgOIk0/aSvmCEfZcUUj3LW8p\n8AJ9usCDRtdHz7b/TdWEBj8+uXSRZO3Vt+B0Z2JbjT5wmIgChA4eFXe6xLG75c2R\nbGrN9UzTf379F5E39Rgmzhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "egl-africa@egl-africa-405113.iam.gserviceaccount.com",
+  "client_id": "112830525640814993606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/egl-africa%40egl-africa-405113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

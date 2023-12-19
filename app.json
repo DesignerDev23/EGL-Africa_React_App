@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "EGL Africa",
+    "slug": "egl-africa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "co.median.android.ryxzjo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d479b57f-d201-4f13-b243-e8fcfd222162"
+      }
+    },
+    "owner": "designer_dev"
+  }
+}
